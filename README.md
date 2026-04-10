@@ -1,5 +1,7 @@
 # obs-arm64
 
+PS: I am not the owner of the source code.
+
 OBS ARM64 is a project that allows you to install OBS v32.1.1 on an ARM SBC (Raspberry Pi, Orange Pi, etc.), an ARM laptop with Linux, or any other ARM device running Linux.
 
 PS: If you are using Windows on ARM, an official OBS build already exists; you can download it [here](https://github.com/obsproject/obs-studio/releases/download/32.1.1/OBS-Studio-32.1.1-Windows-arm64.zip).
