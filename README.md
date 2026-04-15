@@ -18,4 +18,5 @@ Then, the script will do everything for you.
 
 2. To run OBS, run `obs`. If you get an error "Failed to initialize video. Your GPU may not be supported, or your graphics drivers may need to be updated." it's because your GPU doesn't support OpenGL 3.3 or more. Try running OBS with this command instead: `MESA_GL_VERSION_OVERRIDE=3.3 obs`.
 
-If you get errors or issues, you can open an issue, or go in Discussions and open a discussion.
+If you get errors, issues, glitches or bugs, you can open an Issue, or go in Discussions and open a Discussion.
+If nothing solves the issue, contact me on Discord: @dev_nb1x
