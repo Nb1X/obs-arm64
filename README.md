@@ -20,3 +20,7 @@ Then, the script will do everything for you.
 
 If you get errors, issues, glitches or bugs, you can open an Issue, or go in Discussions and open a Discussion.
 If nothing solves the issue, contact me on Discord: @dev_nb1x
+
+# Licence
+
+The source code of OBS is not mine. OBS is under GPL-v2.0 Licence.
