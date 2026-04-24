@@ -2,7 +2,9 @@
 
 Run OBS on an ARM device running Linux.
 
-⚠️ If you're using Windows on your device, an official build already exists: https://github.com/obsproject/obs-studio/releases .
+📰 If you want more info about me and the project, you should check the Wiki instead. This README is here to resume quickly the project's goal.
+
+⚠️ If you're using Windows (Windows for ARM) on your device, an official build already exists: https://github.com/obsproject/obs-studio/releases .
 
 How to use this project:
 
@@ -16,11 +18,14 @@ How to use this project:
 
 Then, the script will do everything for you.
 
-2. To run OBS, run `obs`. If you get an error "Failed to initialize video. Your GPU may not be supported, or your graphics drivers may need to be updated." it's because your GPU doesn't support OpenGL 3.3 or more. Try running OBS with this command instead: `MESA_GL_VERSION_OVERRIDE=3.3 obs`.
+2. To run OBS, run `obs`.
+
+If you get an error "Failed to initialize video. Your GPU may not be supported, or your graphics drivers may need to be updated." it's because your GPU doesn't support OpenGL 3.3 or more. Try running OBS with this command instead: `MESA_GL_VERSION_OVERRIDE=3.3 obs`.
 
 If you get errors, issues, glitches or bugs, you can open an Issue, or go in Discussions and open a Discussion.
 If nothing solves the issue, contact me on Discord: @dev_nb1x
 
 # Licence
 
-The source code of OBS is not mine. OBS is under GPL-v2.0 Licence.
+The source code of OBS is not mine. The OBS Project is under GPL-v2.0 Licence.
+If you want to check the source code, it is available on the official OBS GitHub repository: https://github.com/obsproject/obs-studio
